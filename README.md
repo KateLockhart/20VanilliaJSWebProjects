@@ -5,6 +5,8 @@ Udemy course [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/sha
 
 I find [Brad Traversy](https://www.traversymedia.com/) very inspiring and enjoy his [Udemy courses](https://www.udemy.com/user/brad-traversy/) as well as his YouTube Channel [Traversy Media](https://www.youtube.com/c/TraversyMedia), a wonderful resource for any developer.
 
+Here is [his GitHub Repo](https://github.com/bradtraversy/vanillawebprojects) with the code/solutions that correspond with the course.
+
 ### 20 Projects Content:
 - [ ] 1. Form Validator
 - [ ] 2. Movie Seat Booking
