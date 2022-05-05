@@ -8,7 +8,7 @@ I find [Brad Traversy](https://www.traversymedia.com/) very inspiring and enjoy 
 Here is his [GitHub Repo](https://github.com/bradtraversy/vanillawebprojects) with the code/solutions that correspond with the course.
 
 ### 20 Projects Content:
-- [ ] 1. Form Validator
+- [x] 1. Form Validator
 - [ ] 2. Movie Seat Booking
 - [ ] 3. Custom Video Player
 - [ ] 4. Exchange Rate Calculator
