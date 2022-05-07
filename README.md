@@ -9,7 +9,7 @@ Here is his [GitHub Repo](https://github.com/bradtraversy/vanillawebprojects) wi
 
 ### 20 Projects Content:
 - [x] 1. Form Validator
-- [ ] 2. Movie Seat Booking
+- [x] 2. Movie Seat Booking
 - [ ] 3. Custom Video Player
 - [ ] 4. Exchange Rate Calculator
 - [ ] 5. DOM Array Methods
