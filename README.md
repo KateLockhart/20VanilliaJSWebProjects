@@ -1,6 +1,7 @@
 ## 20VanilliaJSWebProjects
 
-Udemy course [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/share/102yzo3@FY2h-uo6qgoGK234_plKjwCBWZ9m5x82pz-jn3adSLlq3Miii-OYUqtM6InpTpk4pg==/) by Brad Traversy.  
+Udemy course [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/share/102yzo3@FY2h-uo6qgoGK234_plKjwCBWZ9m5x82pz-jn3adSLlq3Miii-OYUqtM6InpTpk4pg==/) by Brad Traversy.
+
 ### Brad Traversy
 
 I find [Brad Traversy](https://www.traversymedia.com/) very inspiring and enjoy his [Udemy courses](https://www.udemy.com/user/brad-traversy/) as well as his YouTube Channel [Traversy Media](https://www.youtube.com/c/TraversyMedia), a wonderful resource for any developer.
@@ -8,9 +9,10 @@ I find [Brad Traversy](https://www.traversymedia.com/) very inspiring and enjoy 
 Here is his [GitHub Repo](https://github.com/bradtraversy/vanillawebprojects) with the code/solutions that correspond with the course.
 
 ### 20 Projects Content:
+
 - [x] 1. Form Validator
 - [x] 2. Movie Seat Booking
-- [ ] 3. Custom Video Player
+- [x] 3. Custom Video Player
 - [ ] 4. Exchange Rate Calculator
 - [ ] 5. DOM Array Methods
 - [ ] 6. Menu Slider & Modal
