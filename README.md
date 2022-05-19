@@ -14,7 +14,7 @@ Here is his [GitHub Repo](https://github.com/bradtraversy/vanillawebprojects) wi
 - [x] 2. Movie Seat Booking
 - [x] 3. Custom Video Player
 - [x] 4. Exchange Rate Calculator
-- [ ] 5. DOM Array Methods
+- [x] 5. DOM Array Methods
 - [ ] 6. Menu Slider & Modal
 - [ ] 7. Hangman Game
 - [ ] 8. Meal Finder
