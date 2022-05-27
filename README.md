@@ -17,7 +17,7 @@ Here is his [GitHub Repo](https://github.com/bradtraversy/vanillawebprojects) wi
 - [x] 5. DOM Array Methods
 - [x] 6. Menu Slider & Modal
 - [x] 7. Hangman Game
-- [ ] 8. Meal Finder
+- [x] 8. Meal Finder
 - [ ] 9. Expense Tracker
 - [ ] 10. Music Player
 - [ ] 11. Infinite Scroll Posts
