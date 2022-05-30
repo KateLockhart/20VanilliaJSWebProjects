@@ -19,7 +19,7 @@ Here is his [GitHub Repo](https://github.com/bradtraversy/vanillawebprojects) wi
 - [x] 7. Hangman Game
 - [x] 8. Meal Finder
 - [x] 9. Expense Tracker
-- [ ] 10. Music Player
+- [x] 10. Music Player
 - [ ] 11. Infinite Scroll Posts
 - [ ] 12. Typing Game
 - [ ] 13. Speech Text Reader
