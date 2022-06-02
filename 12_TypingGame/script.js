@@ -41,6 +41,18 @@ let score = 0;
 // Init time
 let time = 10;
 
+// Init level difficulty to locally stored value or default of medium
+let difficulty = localStorage.getItem('difficulty') !== null ? localStorage.getItem('difficulty') : 'medium';
+
+// Set difficulty select value, using logic above
+difficultySelect.value = localStorage.getItem('difficulty') !== null ? localStorage.getItem('difficulty') : 'medium';
+
+// Focus on text on start
+text.focus();
+
+// Start counting down
+const timeInterval = setInterval(updateTime, 1000);
+
 // Generate random word from the array
 function getRandomWord() {
     return words[Math.floor(Math.random() * words.length)];
@@ -58,9 +70,33 @@ function updateScore() {
     scoreEl.innerHTML = score;
 }
 
+// Update time
+function updateTime() {
+    time--;
+    timeEl.innerHTML = time + 's';
+
+    if(time === 0) {
+        clearInterval(timeInterval);
+        // End game
+        gameOver();
+    }
+}
+
+// Game over, show end screen
+function gameOver() {
+    endgameEl.innerHTML = `
+        <h1>Time ran out</h1>
+        <p>Your final score is ${score}</p>
+        <button onclick="location.reload()">Play Again</button>
+    `;
+
+    endgameEl.style.display = 'flex';
+}
+
 addWordToDOM();
 
 // Event listeners
+// Typing
 text.addEventListener('input', e => {
     const insertedText = e.target.value;
 
@@ -70,5 +106,26 @@ text.addEventListener('input', e => {
 
         // Clear input
         e.target.value = '';
+
+        // Adds seconds to timer per correct word based on difficulty
+        if(difficulty === 'hard') {
+            time += 2;
+        } else if(difficulty === 'medium') {
+            time += 3;
+        } else {
+            time += 5;
+        }
+
+        updateTime();
     }
 });
+
+// Settings
+settingsBtn.addEventListener('click', () => settings.classList.toggle('hide'));
+
+// Settings select
+settingsForm.addEventListener('change', e => {
+    difficulty = e.target.value;
+    // Store the level difficulty to local storage for when returning to game
+    localStorage.setItem('difficulty', difficulty);
+})

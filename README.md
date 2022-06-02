@@ -21,7 +21,7 @@ Here is his [GitHub Repo](https://github.com/bradtraversy/vanillawebprojects) wi
 - [x] 9. Expense Tracker
 - [x] 10. Music Player
 - [x] 11. Infinite Scroll Posts
-- [ ] 12. Typing Game
+- [x] 12. Typing Game
 - [ ] 13. Speech Text Reader
 - [ ] 14. Memory Cards
 - [ ] 15. Lyrics Search App
