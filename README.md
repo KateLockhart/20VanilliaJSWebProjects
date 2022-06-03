@@ -22,7 +22,7 @@ Here is his [GitHub Repo](https://github.com/bradtraversy/vanillawebprojects) wi
 - [x] 10. Music Player
 - [x] 11. Infinite Scroll Posts
 - [x] 12. Typing Game
-- [ ] 13. Speech Text Reader
+- [x] 13. Speech Text Reader
 - [ ] 14. Memory Cards
 - [ ] 15. Lyrics Search App
 - [ ] 16. Relaxer App
