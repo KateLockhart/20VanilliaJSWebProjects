@@ -31,8 +31,8 @@ header {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 150px 0;
-    position: relative;  
+    padding: 150px 0 130px;
+    position: relative;
 }
 
 header::after {
