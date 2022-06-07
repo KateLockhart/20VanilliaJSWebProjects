@@ -24,7 +24,7 @@ Here is his [GitHub Repo](https://github.com/bradtraversy/vanillawebprojects) wi
 - [x] 12. Typing Game
 - [x] 13. Speech Text Reader
 - [x] 14. Memory Cards
-- [ ] 15. Lyrics Search App
+- [x] 15. Lyrics Search App
 - [ ] 16. Relaxer App
 - [ ] 17. Breakout Game
 - [ ] 18. New Year Countdown
