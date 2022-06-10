@@ -28,5 +28,5 @@ Here is his [GitHub Repo](https://github.com/bradtraversy/vanillawebprojects) wi
 - [x] 16. Relaxer App
 - [x] 17. Breakout Game
 - [x] 18. New Year Countdown
-- [ ] 19. Sortable List
+- [x] 19. Sortable List
 - [ ] 20. Speak Number Guessing Game
