@@ -1,7 +1,9 @@
 ## 20VanilliaJSWebProjects
 
 :watch: Course total instruction length: 16 hours
+
 :round_pushpin: Start date: 4/27/2022
+
 :tada: Completion date: 6/10/2022
 
 Udemy course [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/share/102yzo3@FY2h-uo6qgoGK234_plKjwCBWZ9m5x82pz-jn3adSLlq3Miii-OYUqtM6InpTpk4pg==/) by Brad Traversy.
